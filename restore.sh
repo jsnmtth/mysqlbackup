@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+#    Copyright 2011 By Open Kettle, LLC
+#    Author: Jason Ramsey <jramsey@openkettle.com>
 #   
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
